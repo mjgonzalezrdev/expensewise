@@ -1,0 +1,7 @@
+{
+  "name": "expensewise",
+  "version": "1.0.0",
+  "description": "Expense web app",
+  "main": "index.js",
+  "license": "MIT"
+}
